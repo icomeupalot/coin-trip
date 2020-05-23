@@ -1,0 +1,2 @@
+# coin-trip
+Cryptocurrency mining
